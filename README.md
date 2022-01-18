@@ -1,5 +1,7 @@
 # React Redux Shopping Cart
 
+### Site is live on https://react-shoppping-cart.netlify.app/
+
 Steps to run the project
 
  1. To run this project clone the repository or download the code  
